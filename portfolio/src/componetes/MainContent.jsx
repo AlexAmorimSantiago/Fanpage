@@ -1,7 +1,8 @@
 import "../styles/componetes/maincontent.sass"
+import { MainContent } from "./MainContent.1"
 
-const MainContent =() => {
-  return(
+ () => {
+  return (
     <main id="main-content">MainContent</main>
   )
 }
